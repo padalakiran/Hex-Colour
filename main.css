@@ -1,0 +1,11 @@
+.text-uppercase{
+    text-align:center;
+    top: 35%;
+    left: 40%;
+    position: fixed;
+    font-size: 60px;
+}
+.btn-text-right{
+   text-align:center;
+   padding:370px;
+}
